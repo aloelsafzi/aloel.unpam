@@ -1,0 +1,33 @@
+.slider h3, 
+.slider h5,
+.portfolio h2,
+.nav-wrapper a,
+.nav-wrapper li{
+text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+}
+
+.parallax-container{
+    height: 50%;
+}
+ .parallax img{
+    opacity: 0.9 !important;
+}
+
+.portfolio .row img{
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+    
+}
+
+section{
+    padding: 20px 0;
+    
+}
+
+section .portfolio{
+    margin-bottom: -20px;
+}
+
+footer ul li a:hover{
+ background-color: blue;
+ border-radius: 10px;
+ }
